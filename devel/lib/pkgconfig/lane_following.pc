@@ -1,0 +1,8 @@
+prefix=/home/rossim/catkin_ws/devel
+
+Name: lane_following
+Description: Description of lane_following
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

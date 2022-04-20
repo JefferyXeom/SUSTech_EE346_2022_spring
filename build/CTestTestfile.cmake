@@ -1,0 +1,37 @@
+# CMake generated Testfile for 
+# Source directory: /home/rossim/catkin_ws/src
+# Build directory: /home/rossim/catkin_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("image_pipeline/image_pipeline")
+subdirs("ar_track_alvar/ar_track_alvar_msgs")
+subdirs("aruco_ros/aruco_msgs")
+subdirs("turtlebot3/turtlebot3")
+subdirs("turtlebot3_msgs")
+subdirs("turtlebot3/turtlebot3_navigation")
+subdirs("turtlebot3_simulations/turtlebot3_simulations")
+subdirs("beginner_tutorial2")
+subdirs("beginner_tutorials")
+subdirs("lane_following")
+subdirs("line_follower_turtlebot")
+subdirs("image_pipeline/camera_calibration")
+subdirs("aruco_ros/aruco")
+subdirs("cv_camera")
+subdirs("image_pipeline/image_proc")
+subdirs("image_pipeline/image_publisher")
+subdirs("image_pipeline/image_view")
+subdirs("image_pipeline/stereo_image_proc")
+subdirs("image_pipeline/depth_image_proc")
+subdirs("aruco_ros/aruco_ros")
+subdirs("ar_track_alvar/ar_track_alvar")
+subdirs("image_pipeline/image_rotate")
+subdirs("turtlebot3/turtlebot3_bringup")
+subdirs("turtlebot3/turtlebot3_example")
+subdirs("turtlebot3_simulations/turtlebot3_fake")
+subdirs("turtlebot3_simulations/turtlebot3_gazebo")
+subdirs("turtlebot3/turtlebot3_slam")
+subdirs("turtlebot3/turtlebot3_teleop")
+subdirs("usb_cam")
+subdirs("turtlebot3/turtlebot3_description")

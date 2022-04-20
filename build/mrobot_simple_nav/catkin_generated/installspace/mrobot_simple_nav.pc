@@ -1,0 +1,8 @@
+prefix=/home/rossim/catkin_ws/install
+
+Name: mrobot_simple_nav
+Description: Description of mrobot_simple_nav
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs

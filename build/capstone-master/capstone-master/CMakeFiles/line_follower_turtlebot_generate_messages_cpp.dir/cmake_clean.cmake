@@ -1,0 +1,10 @@
+file(REMOVE_RECURSE
+  "/home/rossim/catkin_ws/devel/include/line_follower_turtlebot/pos.h"
+  "/home/rossim/catkin_ws/devel/include/line_follower_turtlebot/sound.h"
+  "CMakeFiles/line_follower_turtlebot_generate_messages_cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/line_follower_turtlebot_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
